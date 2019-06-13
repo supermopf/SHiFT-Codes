@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShiftCodes
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      1.0
 // @description  Enters SHiFT-Codes
 // @author       Victor Lange
 // @updateURL    https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/SHiFT-Codes.user.js
