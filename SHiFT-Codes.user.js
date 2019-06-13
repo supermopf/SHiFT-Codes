@@ -4,8 +4,8 @@
 // @version      0.4
 // @description  Enters SHiFT-Codes
 // @author       Victor Lange
-// @updateURL    https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/user.js
-// @downloadURL  https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/user.js
+// @updateURL    https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/SHiFT-Codes.user.js
+// @downloadURL  https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/SHiFT-Codes.user.js
 // @match        https://shift.gearboxsoftware.com/rewards
 // @grant        none
 // ==/UserScript==
