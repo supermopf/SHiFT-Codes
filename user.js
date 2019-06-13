@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         ShiftCodes
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Enters SHiFT-Codes
 // @author       Victor Lange
+// @updateURL    https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/user.js
+// @downloadURL  https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/user.js
 // @match        https://shift.gearboxsoftware.com/rewards
 // @grant        none
 // ==/UserScript==
-
-//https://shift.gearboxsoftware.com/rewards
 
 var ShiftCodes = [];
 
