@@ -10,7 +10,7 @@ Make sure to install a userscript engine like [Greasemonkey](https://addons.mozi
 
 Install "SHiFT-Codes" by clicking here: [install](https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/SHiFT-Codes.user.js).
 
-#Usage
+# Usage
 
 1. Visit the [SHiFT Website](https://shift.gearboxsoftware.com/rewards) and Login
 2. Open up a linked SHiFT Game
