@@ -2,7 +2,7 @@
 ![Userscript Demo](/images/demo.png?raw=true "Demo")
 
 A Userscript for redeeming SHiFT-Codes for Borderlands. 
-
+This script supports the English and the German version of the website.
 
 # Installation
 
