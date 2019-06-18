@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         ShiftCodes
+// @name         ShiftCodes for Borderlands
 // @namespace    https://victor-lange.de/
-// @version      2.0
-// @description  Enters SHiFT-Codes
+// @version      2.1
+// @description  Automatically enters SHiFT-Codes for Borderlands.
 // @author       Victor Lange
 // @website      https://victor-lange.de
 // @updateURL    https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/SHiFT-Codes.user.js
