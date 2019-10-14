@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         ShiftCodes for Borderlands
 // @namespace    https://victor-lange.de/
-// @version      2.1
+// @version      2.2
 // @description  Automatically enters SHiFT-Codes for Borderlands.
 // @author       Victor Lange
 // @website      https://victor-lange.de
-// @updateURL    https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/SHiFT-Codes.user.js
-// @downloadURL  https://raw.githubusercontent.com/supermopf/SHiFT-Codes/master/SHiFT-Codes.user.js
+// @updateURL    https://github.com/supermopf/SHiFT-Codes/raw/master/SHiFT-Codes.user.js
+// @downloadURL  https://github.com/supermopf/SHiFT-Codes/raw/master/SHiFT-Codes.user.js
 // @match        https://shift.gearboxsoftware.com/rewards
 // @grant        GM_getValue
 // @grant        GM_setValue
